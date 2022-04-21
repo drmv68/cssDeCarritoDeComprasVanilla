@@ -1,0 +1,46 @@
+#banner{
+	background: #3d3d3d;
+	display: flex;
+}
+
+.imgCategoria{
+	margin-left: 12px;
+	margin-bottom: -23px;
+	width: 2.4rem;
+}
+
+.imgLogo{
+	width: 12rem;
+	height: 4rem ;
+	margin-top: 5px;
+}
+.imgEnvio{
+	height: 3.6rem;
+}
+.imgCart{
+	height: 3rem;
+}
+
+.Cuadritocategoria{
+	margin: 9px;
+	margin-bottom: -10px;
+}
+.buscador{
+	margin: 18.2px 2px 8px 4px ;
+	width: 48.4rem;
+	height: 40px
+}
+.buscador:focus{
+	 outline: none;
+}
+.botonBuscar{
+	border: none;
+	margin: 19px 0 0 -70px;
+    width: 4.1rem;
+	height: 39px;
+	position: absolute;	
+}
+.barraBuscador{
+	margin-right: 13px;
+	margin-left: 14px;
+}
